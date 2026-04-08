@@ -3,7 +3,7 @@ name: recall
 description: "Three-layer memory with auto-fix: Core (essential), Working (auto-compressed), Archive (searchable). Error-driven learning with automatic pattern detection and fix attempts. Always active."
 always: "true"
 version: "1.0.0"
-author: "全哥 & 码子"
+author: "lin82-2023"
 metadata: >
   {"nanobot": {"always": true, "emoji": "🧠"}}
 ---

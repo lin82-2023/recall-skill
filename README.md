@@ -117,7 +117,6 @@ cat /home/ubuntu/.nanobot/workspace/memory/HOOK_DEBUG.log
 
 MIT
 
-## Authors
+## Author
 
-- 全哥 (Product & Testing)
-- 码子 (Development)
+[lin82-2023](https://github.com/lin82-2023)
