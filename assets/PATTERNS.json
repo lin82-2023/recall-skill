@@ -1,0 +1,13 @@
+{
+  "PATH_ERROR": {"count": 0, "examples": []},
+  "PERMISSION_ERROR": {"count": 0, "examples": []},
+  "MISSING_COMMAND": {"count": 0, "examples": []},
+  "NETWORK_ERROR": {"count": 0, "examples": []},
+  "PYTHON_ERROR": {"count": 0, "examples": []},
+  "SYNTAX_ERROR": {"count": 0, "examples": []},
+  "FS_WRITE_ERROR": {"count": 0, "examples": []},
+  "FS_EDIT_ERROR": {"count": 0, "examples": []},
+  "FS_OFFSET_ERROR": {"count": 0, "examples": []},
+  "FS_READ_ERROR": {"count": 0, "examples": []},
+  "UNKNOWN_ERROR": {"count": 0, "examples": []}
+}
