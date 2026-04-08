@@ -1,5 +1,7 @@
 # Recall Skill
 
+[![GitHub stars](https://img.shields.io/github/stars/lin82-2023/recall-skill?style=social)](https://github.com/lin82-2023/recall-skill/stargazers)
+
 **Three-layer memory with automatic error learning and improvement**
 
 ## Features
